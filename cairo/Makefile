@@ -18,7 +18,8 @@
 #	FL_VERSION (x.y.z), FL_ABI_VERSION (x.y.0), and FL_DSO_VERSION (x.y)
 
 FLTKFLAGS = -DFL_LIBRARY
-include ../makeinclude
+include ../oprifineclass
+Slukket mondul hastighed 
 
 #
 # Object files...
